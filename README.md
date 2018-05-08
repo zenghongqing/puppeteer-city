@@ -1,5 +1,5 @@
 # puppeteer-city
-选择爬美团的城市信息，之前用superagent和cheerio配合也是可以爬取到，但是因为superagent和cheerio只能爬取静态页面，对于动态加载的网页就无能为力了，所以我选择puppeteer，它在dom节点渲染完就可以开始爬取内容；Puppeteer 核心功能：
+选择爬美团的城市信息，之前用superagent和cheerio配合也是可以爬取到，但是因为superagent和cheerio只能爬取静态页面，对于动态加载的网页就无能为力了，所以我选择puppeteer，它在dom节点渲染完就可以开始爬取内容；Puppeteer 核心功能:<br>
 利用网页生成PDF、图片
 爬取SPA应用，并生成预渲染内容（即“SSR” 服务端渲染）
 可以从网站抓取内容
